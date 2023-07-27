@@ -440,6 +440,7 @@ box-shadow: var(--bs);
 }
 .social-list__item{
   margin: 0 .5em;
+  border-radius: 50%;
 }
 .social-list__link{
   padding: .5em;

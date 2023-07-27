@@ -175,6 +175,7 @@ header{
   font-weight: var(--fw-bold);
   font-size: var(--fs-h2);
   text-decoration: none;
+  font-size: 35px;
 
 }
 
